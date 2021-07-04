@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alexjarv
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning laravel
+- 💞️ I’m looking to collaborate on blockchain projects
+- 📫 How to reach me: https://discord.com/users/338683174311690242/
